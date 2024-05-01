@@ -1,4 +1,4 @@
-﻿namespace ShoesShop.Database
+﻿namespace ShoesShop.DAL
 {
 	public class Class1
 	{
