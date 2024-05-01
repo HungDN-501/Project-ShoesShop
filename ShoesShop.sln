@@ -5,7 +5,11 @@ VisualStudioVersion = 17.9.34714.143
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShoesShop", "ShoesShop\ShoesShop.csproj", "{3C82C0DF-ADA4-42B3-9801-DB1F38104458}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoesShop.DAL", "ShoesShop.DAL\ShoesShop.DAL.csproj", "{29A98051-9D0D-43F4-9ECC-443DF13D7E57}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShoesShop.DAL", "ShoesShop.DAL\ShoesShop.DAL.csproj", "{29A98051-9D0D-43F4-9ECC-443DF13D7E57}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShoesShop.BUS", "ShoesShop.BUS\ShoesShop.BUS.csproj", "{0ABAA1C7-2AB6-4DA4-9EAC-CD7DD109DB5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoesShop.MOD", "ShoesShop.MOD\ShoesShop.MOD.csproj", "{9CFB0460-5C94-44B7-A98E-4CD29364F6D2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
